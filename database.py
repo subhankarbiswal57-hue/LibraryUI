@@ -253,3 +253,4 @@ class Database:
         else:
             msg += "\nReturned on time. No late fine applied."
         return True, fine, msg
+
