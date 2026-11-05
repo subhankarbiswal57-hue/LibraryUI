@@ -1,0 +1,64 @@
+{
+    "users": {
+        "admin": "admin123"
+    },
+    "books": [
+        {
+            "id": "B101",
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "category": "Fiction",
+            "status": "Available"
+        },
+        {
+            "id": "B102",
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "category": "Tech",
+            "status": "Available"
+        },
+        {
+            "id": "B103",
+            "title": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "category": "Science",
+            "status": "Available"
+        },
+        {
+            "id": "B104",
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "category": "Fiction",
+            "status": "Available"
+        },
+        {
+            "id": "B105",
+            "title": "Introduction to Algorithms",
+            "author": "Thomas H. Cormen",
+            "category": "Education",
+            "status": "Available"
+        }
+    ],
+    "members": [
+        {
+            "id": "M001",
+            "name": "John Doe",
+            "email": "john@example.com",
+            "phone": "9876543210"
+        },
+        {
+            "id": "M002",
+            "name": "Alice Smith",
+            "email": "alice@example.com",
+            "phone": "9123456780"
+        },
+        {
+            "id": "M003",
+            "name": "Subhankar Biswal",
+            "email": "subhankar@example.com",
+            "phone": "9988776655"
+        }
+    ],
+    "issues": [],
+    "issue_history": []
+}
