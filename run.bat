@@ -7,3 +7,4 @@ if errorlevel 1 (
     echo An error occurred running the application.
     pause
 )
+
